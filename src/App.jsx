@@ -9,7 +9,8 @@ import {
   Gamepad2, 
   HelpCircle,
   Sparkles,
-  Info
+  Info,
+  Settings
 } from 'lucide-react';
 
 import { THEMES, ACHIEVEMENTS, DIFFICULTIES } from './utils/gameData';
